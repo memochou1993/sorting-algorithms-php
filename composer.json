@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "files": [
+            "src/BubbleSort.php",
+            "src/SelectionSort.php",
+            "src/InsertionSort.php",
+            "src/MergeSort.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
